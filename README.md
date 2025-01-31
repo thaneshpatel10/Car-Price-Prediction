@@ -51,9 +51,9 @@ this may be due to imbalanced dataset, these models perform well with the imbala
 
 
 Future Improvements:
-Hyperparameter tuning using GridSearchCV
-Feature selection using SHAP values
-Experimenting with CatBoost and LightGBM
+Hyperparameter tuning using GridSearchCV,
+Feature selection using SHAP values,
+Experimenting with CatBoost and LightGBM,
 Applying log transformation to the target variable
 
 Author
